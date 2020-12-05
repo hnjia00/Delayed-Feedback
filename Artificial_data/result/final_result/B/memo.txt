@@ -1,0 +1,20 @@
+人工数据:
+B=10000最好
+mu = 1.4
+w = 2.1
+F = [
+    'result/final_result/B/N40_reward_B6000',
+    'result/final_result/B/N40_reward_B7000',
+    'result/final_result/B/N40_reward_B8000',
+    'result/final_result/B/N40_reward_B9000',
+    'result/final_result/B/N40_reward_B10000',
+    'result/final_result/B/N40_reward_B11000',
+    'result/final_result/B/N40_reward_B12000',
+    'result/final_result/B/N40_reward_B13000',
+]
+
+f1 = open('result/final_result/B//N40_reward_B10000','r')
+
+f1 = open('result/final_result/B//N40_reward_B10000no','r')
+
+f2 = open('result/final_result/B/continuous_coef_reward_DFM_B10000','r')
