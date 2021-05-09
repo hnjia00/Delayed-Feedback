@@ -1,0 +1,5 @@
+加载环境变脸添加高斯噪声：
+w_c = np.array(w_c) + np.random.normal(0, 0.01, (d,))
+w_d = np.array(w_d) + np.random.normal(0, 10, (d,))
+
+UCB_modify: B = 6000 mu = 0.8 w_cut = 1.1

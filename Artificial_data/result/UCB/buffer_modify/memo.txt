@@ -1,0 +1,12 @@
+人工数据:
+B=6000
+F = [
+    modify：
+    './result/UCB/buffer_modify/miu=0.5/recent_reward_w10',
+    './result/UCB/buffer_modify/miu=0.5/recent_reward_w21',
+    './result/UCB/buffer_modify/miu=0.5/recent_reward_w28', √
+    './result/UCB/buffer_modify/miu=1.4/recent_reward_w10',
+    './result/UCB/buffer_modify/miu=1.4/recent_reward_w21', √
+    no modify：
+    'result/UCB/buffer_modify/recent_reward_miu7no' √
+]

@@ -1,0 +1,4 @@
+recent campaigns:
+B=6000
+modify: miu=0.8 w=1.1 open('./result/UCB/buffer_modify/w/recent_reward_w1.1','r')
+no modify: miu=0.8 open('./result/UCB/buffer_modify/miu/recent_reward_miu0.8no','r')
