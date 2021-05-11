@@ -1,6 +1,6 @@
 # Delayed-Feedback
 
-Counterfactual Sequential Batch Bandit for Recommendation under Delayed Feedback的相关代码
+Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback的相关代码
 
 ## Artificial_data
 该文件夹下包含了在人工数据集下的算法模拟场景。
