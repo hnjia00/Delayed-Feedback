@@ -36,6 +36,6 @@ Criteo总共包含了两组训练/测试数据的状态向量，其状态向量�
 
 通过执行criteo_main.py可完成主算法或baseline在Criteo数据集下的训练和上线模拟：
 ```py
-python3 criteo_main.
+python3 criteo_main.py
 ```
 
